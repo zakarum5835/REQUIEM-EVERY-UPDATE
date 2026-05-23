@@ -1,0 +1,121 @@
+\###### \*\*New Recipes, Changes and new Questlines! - v1.2.0\*\*
+
+
+
+This update is made to finish the Zaka Star Questline, which means that the Endgame is almost done and it will be completed in the next update.
+
+
+
+
+
+
+
+
+
+
+
+\###### \*\*Changes\*\*
+
+
+
+* &#x20;Updated Mods
+* &#x20;Restmode mod by Norevy works like DynamicFPS but more fancy
+* &#x20;Player will forever spawn in Blackwood Taiga biome (Storyline)
+* &#x20;Recreated Mixing Recipe for Rose Gold Alloy
+* &#x20;Removed old crafting recipe for Rose Gold Alloy (Storyline)
+* &#x20;Modified Quest "Ahhhhhh I Missed You" in "Chapter III: Preparing" Questline
+* &#x20;Increased Aberration's Heart Drop Chance when killing Aberrations
+* &#x20;The Eldritch Eye can be summoned by performing a Sabbath Ritual (Goety)
+* &#x20;Removed Sacrificial Dirk Crafting Recipe
+* &#x20;Sacrificial Dirk can be obtained by performing a Forge Ritual (Goety)
+* &#x20;Macabre Dimension can be unlocked by getting a Sacrificial Dirk
+* &#x20;Created a new recipe for Yuki Star
+* &#x20;Modified Creative Essence Recipe (Mystical Agradditions)
+* &#x20;Adjusted First "Mystical Arsenal" Quest
+* &#x20;Replaced FirstJoin mod with Custom Starter Gear
+* &#x20;Disabled Book of Chronicle of Shadows (Apotheosis)
+
+
+
+
+
+
+
+
+
+
+
+\###### \*\*New Quests\*\*
+
+
+
+
+
+
+
+
+
+
+
+* Chapter VI: Zaka Star
+* Create: New Age
+* Starcatcher
+
+
+
+
+
+
+
+
+
+
+
+\###### \*\*New Mods\*\*
+
+
+
+
+
+
+
+
+
+
+
+* Restmode (suggested by Norevy) similar to DynamicFPS
+* Goety's Delight
+* Biome Spawn Point
+* KubeJS Create
+* Cloud Storage
+* Custom Starter Gear
+
+
+
+
+
+
+
+
+
+
+
+\###### \*\*New Resource Packs\*\*
+
+
+
+
+
+
+
+
+
+
+
+* AppliedEnergistics2-TexturesBackport suggested by @primedfortuna
+* Prominence's Custom Lootr Chests
+
+
+
+
+

@@ -18,6 +18,7 @@ Changes
 - Adjusted First "Mystical Arsenal" Quest
 - Replaced FirstJoin mod with Custom Starter Gear
 - Disabled Book of Chronicle of Shadows (Apotheosis)
+- Music Disc Cauldron from Goety Awaken can be obtained by killing Eldritch Eye
 
 New Quests
 - Chapter VI: Zaka Star

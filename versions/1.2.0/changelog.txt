@@ -34,3 +34,5 @@ New Mods
 New Resource Packs
 - AppliedEnergistics2-TexturesBackport suggested by primed
 - Prominence's Custom Lootr Chests
+
+Always make a backup of your world before update.

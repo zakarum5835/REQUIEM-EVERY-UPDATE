@@ -22,8 +22,6 @@ Changes
 
 New Quests
 - Chapter VI: Zaka Star
-- Create: New Age
-- Starcatcher
 
 New Mods
 - Restmode (suggested by Norevy) similar to DynamicFPS

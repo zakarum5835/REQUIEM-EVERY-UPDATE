@@ -7,7 +7,7 @@ Changes
 - Player will forever spawn in Blackwood Taiga biome (Storyline)
 - Recreated Mixing Recipe for Rose Gold Alloy
 - Removed old crafting recipe for Rose Gold Alloy (Storyline)
-- Modified Quest "Ahhhhhh I Missed You" in "Chapter III: Preparing" Questline
+- Modified Quest "Ahhhhhh I Missed You" in "Chapter III: Preparing"
 - Increased Aberration's Heart Drop Chance when killing Aberrations
 - The Eldritch Eye can be summoned by performing a Sabbath Ritual (Goety)
 - Removed Sacrificial Dirk Crafting Recipe
@@ -19,6 +19,7 @@ Changes
 - Replaced FirstJoin mod with Custom Starter Gear
 - Disabled Book of Chronicle of Shadows (Apotheosis)
 - Music Disc Cauldron from Goety Awaken can be obtained by killing Eldritch Eye
+- Removed ChunksFadeIn due incompatibility with Oculus
 
 New Quests
 - Chapter VI: Zaka Star

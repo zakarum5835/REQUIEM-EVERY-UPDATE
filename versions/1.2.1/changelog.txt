@@ -1,0 +1,37 @@
+New Recipes, Changes and new Questlines! - v1.2.1
+This update is made to finish the entire Storyline Questline, since the Storyline has been completed, there will be only released extra questlines.
+
+Changes
+- Updated Mods
+- Removed every Iron and Diamond Armor Set, Tools and Weapons from Loot Chests in Overworld
+- Created a new recipe for Eternal Stella (Forbidden and Arcanus)
+- Halo of Ascension can be obtained defeating Apostle (Goety)
+- Malefic Helmet can be obtained defeating The Immortal (EEEAB's Mobs)
+- Heresiarch from Goety doesn't drop Malefic Helmet anymore
+- Removed Hexerei and Cloud Storage 
+- Removed Integrated Dungeons and Structures/API (Causes Crash)
+- Modified Nightmare Sword Recipe
+- Disabled some Terramity, Goety, Goety Awaken, Dungeons Plus Structures and Floating Islands
+- Changed some Goety structures placement around the Overworld
+- Some Goety, Goety Awaken and Apotheosis Structures will spawn only in specific biomes
+- Removed Tridents, Raveyx Egg, Ancient Tomes and Sniffer Egg from Loot Chests
+- Modified Large Canteen Crafting Recipe
+- All AE2 Meteorites spawn in water to save world gen
+- Improved AE2 Questline
+- Improved Apollyon Bossfight
+- Temporarily Disabled BadOptimizations
+
+New Quests
+- Chapter VII: THE LAST ACT
+- Create: New Age made by @KK_mirak
+
+New Mods
+- Wither Skeleton Tweaks
+- Relics
+- You Shall Not Spawn! (Modpack Utils Series)
+- Resource Pack Overrides
+
+New Resource Packs
+- Replaced Prominence's Custom Lootr Chests with Medieval Style Lootr
+
+Always make a Backup of your World before Update

@@ -27,7 +27,4 @@ New Mods
 - Create Cobblestone
 - Distant Worlds
 
-New Resource Packs
-- Replaced Prominence's Custom Lootr Chests with Medieval Style Lootr
-
 Always make a Backup of your World before Update

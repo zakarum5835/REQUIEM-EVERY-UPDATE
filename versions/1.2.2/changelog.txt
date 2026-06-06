@@ -1,0 +1,33 @@
+Improvements, Changes and Adjustments! - v1.2.2
+
+Changes
+- Updated Mods
+- Increased Apollyon heart from 666 to 6666
+- Improved Xaero's Minimap
+- Improved Overworld gen
+- Improved Nether gen
+- Improved Shaders
+- Some Terramity Structures moved to Distant Worlds Dimension
+- Treeper from Species will no longer spawn (Causes Crash)
+- Changed some Terramity structure placement
+- Changed some Moog's Voyager Structures placement
+- Disabled some Moog's Voyager Structures (Low Performance)
+- Changed Demi's Sky Arena Structures Placement
+- Wither has a new drop (Distant Worlds)
+- Modified a Quest in "Chapter V: A New God" Questline
+- Modified a Questi in "Chapter VII: THE LAST ACT" Questline
+- Distant Worlds can be unlocked by getting the Zaka Star
+- Implemented a custom message for Charged Wither Totem
+- Disabled Third Person Front
+
+New Mods
+- FastFurnace
+- FastWorkbench
+- Particle Core
+- Create Cobblestone
+- Distant Worlds
+
+New Resource Packs
+- Replaced Prominence's Custom Lootr Chests with Medieval Style Lootr
+
+Always make a Backup of your World before Update

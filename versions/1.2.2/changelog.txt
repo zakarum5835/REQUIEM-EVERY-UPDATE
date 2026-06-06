@@ -1,6 +1,6 @@
 Improvements, Changes and Adjustments! - v1.2.2
 
-Changes
+Fix & Changes
 - Updated Mods
 - Increased Apollyon heart from 666 to 6666
 - Improved Xaero's Minimap

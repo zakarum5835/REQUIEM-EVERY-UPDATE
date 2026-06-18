@@ -1,0 +1,46 @@
+Improvements, Changes and Fixes!
+Added new mods while going for more stability.
+
+Fixes and Changes:
+- Updated Mods
+- Updated Resource Packs
+- Updated "Create Server!" Button
+- Main Menu doesn't have Bugs anymore 
+- Removed Obscure Tooltips
+- Removed Limited Chunkloading - Chunk cleanup
+- Removed Eclectic Trove (Legendary Tooltips)
+- Removed Better Fps - Render Distance
+- Removed GeckolibBetterFPS
+- Removed Embeddium (Rubidium) Extra
+- Removed Embeddium
+- Removed Sodium/Embeddium Extras
+- Removed Species
+- Removed Let Me Despawn
+- Removed Naturalist
+- Removed Better Biome Reblend
+- Removed Flerovium
+- Removed Ksyxis
+- Removed Smooth Boot (Reloaded)
+- Removed THE UNDEAD REVAMPED
+- Enhanced Tooltips Box for certain items
+- Default World Creation will always be BetterX
+- Cave Gnome will no longer spawn in other dim, except in Overworld
+- Fixed some End Moog's Structures not spawning properly
+- Changed Foxhound spawn in Distant Worlds
+- Moved Jade box under Xaero's Minimap
+
+New Mods:
+- Tooltip Overhaul
+- Default World Type
+- Presence Footsteps
+- Better chunk loading
+- Chunk Sending
+- Server Performance - Smooth Chunk Save
+- Better World Loading
+- Sodium/Embeddium Options Mod Compat
+- Xenon
+- Despawn Tweaks
+- Radium Reforged
+- Born in Chaos
+
+Always make a Backup of your World before Update

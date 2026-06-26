@@ -1,0 +1,32 @@
+Major Improvements, Changes and Fixes!
+Fixing more stuff while going for more stability.
+
+Fixes and Changes:
+- Updated Mods
+- Improved Performance
+- Nether Apollyon now can be beaten (Thanks to blueversal)
+- Renabled BadOptimizations
+- Backported ModernFix 5.27.51 to 5.26.2
+- Backported FastSuite 5.1.2 to 5.1.0
+- Forbidden & Arcanus Souls entities doesn't spawn naturally anymore (Thanks to KCtops6)
+- Reduced Cave Gnomes spawn rate
+- Reduced Halloweed spawn rate
+- Reduced Creepling spawn rate
+- Loot generated on Crashed Ships around the BetterEnd
+- Dark Tower structure spawns only in Willow Forest biome (Born in Chaos)
+- Enhanced Tooltips Box for certain items
+- Added Discord Button link on Main Menu
+- Changed Music on Main Menu
+- Removed Cristel Lib
+
+New Mods:
+- Cult of Azazel
+- BetterEnd Crashed Ships Tweaks
+- Readded GeckoLib BetterFPS
+- Readded Better Fps - Render Distance
+- Readded Smooth Boot (Reloaded)
+
+New Quests:
+- Starcatcher
+
+Always make a Backup of your World before Update

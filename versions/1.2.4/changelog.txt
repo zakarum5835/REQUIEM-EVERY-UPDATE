@@ -18,7 +18,6 @@ Fixes and Changes:
 - Added Discord Button link on Main Menu
 - Changed Music on Main Menu
 - Removed Cristel Lib
-- Temporarily Removed Euphoria Shaders in Shaderpacks folder
 
 New Mods:
 - Cult of Azazel

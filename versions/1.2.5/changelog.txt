@@ -1,0 +1,46 @@
+Give a Warm Welcome to The Dark Art Skill Tree!
+This new update adds a brand new custom Skill Tree while adding new questlines, mods and going for more stability.
+
+Fixes and Changes:
+- Updated Mods
+- Improved Performance
+- Improved Complementary Unbound Shader
+- Improved Main Menu
+- Improved FTB Quests HUD and UI
+- Improved Ashen Textures via RequiemTweaks Resource Pack
+- Fixed KubeJS reduce_mob_spawns.js error after doing /kubejs reload command
+- Removed Resource Pack Overrides
+- Removed 3D Skin Layers
+- Removed Apotheosis
+- Removed Better Combat x Apotheosis Compat
+- Removed Apothic Curios
+- Removed Blaze Powder and Blaze Rods from Loot Chests around the Overworld (Thanks to @kctops)
+- Backported CreativeCore 2.12.38 to 2.12.36
+- Backported Entity Culling 1.10.3 to 1.10.2
+- Configured Crash Assistant
+- Configured Default Options without exporting options.txt file
+- Added Witch Island Structure (Ember's Floating Islands)
+- Added new Moogs's Structures (Moogs Structures)
+- Added new Cult of Azazel Structures (Overworld)
+- Some Cult of Azazel Structures were moved to Distant Worlds
+- Increased Ender Dragon's Health and Attacks
+- Created a new Skill Tree named The Dark Art (Pufferfish Skill Tree)
+- Created a new crafting recipe for Black Matter (Terramity)
+- Black Matter can be obtained defeating Trial Guardian (Terramity)
+- Disabled Low Hydration Effect (Legendary Survival Overhaul)
+
+New Mods:
+- In Control!
+- Pufferfish's Skills [Fabric & Forge & NeoForge]
+- Pufferfish's Attributes [Fabric & Forge & NeoForge]
+
+New Quests:
+- Terramity: Everything
+- Ancient Elements
+- Saint's Dragon
+- Relics
+
+New Resource Pack:
+- RequiemTweaks
+
+Always make a backup of your world before update.

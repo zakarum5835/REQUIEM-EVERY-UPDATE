@@ -24,6 +24,7 @@ Fixes and Changes:
 - Added new Cult of Azazel Structures (Overworld)
 - Some Cult of Azazel Structures were moved to Distant Worlds
 - Increased Ender Dragon's Health and Attacks
+- Increased Apollyon Hurt Limit from 30.0 to 50.0
 - Created a new Skill Tree named The Dark Art (Pufferfish Skill Tree)
 - Created a new crafting recipe for Black Matter (Terramity)
 - Black Matter can be obtained defeating Trial Guardian (Terramity)

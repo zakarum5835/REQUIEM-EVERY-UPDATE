@@ -1,0 +1,46 @@
+This update is made with the intention of improving performance, adding new questlines and perfomance mods while going for more stability without experiencing any lag issues. 
+A new shader which is Hysteria Shader that fits very well with the main theme of this modpack.
+
+Fixes and Changes:
+- Updated Mods
+- Improved Performance
+- Improved performance in Overworld dimension
+- Improved performance in Nether dimension
+- Improved performance in End dimension
+- Removed Fusion (Connected Textures)
+- Removed Shoulder Surfing Reloaded (Replaced)
+- Removed Tooltip Overhaul (Replaced)
+- Removed FTB Chunks (Replaced)
+- Removed Euphoria Patches (Doesn't Fit with Requiem Enviroment)
+- Removed Complementary Unbound + Euphoria Shader
+- Temporarily Removed `farmersdelight:flint_knife` there was a conflict with the Flint Knife of No Tree Punching mod
+- Recreated `terramity:sword_of_the_imprisoned` sword recipe not working properly
+- Disabled `forbidden_arcanus:nipa` structure, not generating properly
+- Disabled `incendium:abandoned_tower` structure, not generating properly
+- Disabled `netherman:mansion_nether` structure in every Basalt biomes (Cult of Azazel)
+- Changed `minecraft:mansion` structure placement, it generates only in Dark Forest
+- Adjusted  `enigmaticlegacy:twisted_heart` recipe and many more (Forbidden and Arcanus)
+- Fixed `enigmaticlegacy:cursed_ring` recipe not working (Forbidden and Arcanus)
+- Fixed `eldritch_end:corruption` ability tooltip in the inventory
+- Enhanced tooltips for `zaka_star`, `creative_essence`, `baal_heart` and `infernal_tome`
+
+New Mods:
+- DEUF Duplicate Entity UUID Fix
+- AllTheLeaks (Memory Leak Fix)
+- Cull Leaves
+- Structure Layout Optimizer
+- Falling Leaves (NeoForge/Forge)
+- Legendary Tooltips [Neo/Forge]
+- Xaero's World Map
+- Cerulean
+- Leawind's Third Person
+- Connectivity
+
+New Quests:
+- A New World
+- The Dark Forest
+
+New Shaders:
+- Hysteria Shaders
+
+Always make a backup of your world before update.

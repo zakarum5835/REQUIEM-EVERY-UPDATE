@@ -1,0 +1,39 @@
+# The Abandoned Church Update - v1.2.7
+This new update introduces a brand new structure made for the Storyline!
+Continuing improving performance in certain dimensions to get the best experience while playing.
+
+Fixes and Changes:
+- Updated Mods
+- Improved Hysteria Shaders
+- Improved Performance in Twilight Forest dimension
+- Improved Performance in The Abyss dimension
+- Changed spawn point when you join a world for the first time
+- Changed keybind K to N for The Dark Art Skill Tree
+- Changed keybind N to K for the Waypoint
+- Changed Requiem profile picture with CraftPresence
+- Changed Requiem icon with FancyMenu
+- Moved `realmrpg_creep:creepling` and `realmrpg_creep:halloweed` to the Twilight Forest
+- Moved `celestisynth:traverser` and `celestisynth:star_monolith` to Distant Worlds
+- Increased `terramity:chthonic_cathedral` structure frequency in Distant Worlds
+- Decreased `twilightforest:naga_courtyard` and `twilightforest:lich_tower` structure frequency
+- Disabled every Valhelsia Structures in `regions_unexplored:alpha_grove` biome
+- Disabled `dungeons_plus:tower` structure in `regions_unexplored:alpha_grove` biome
+- Disabled `mvs:railway` and`mvs:small_oak_pond` structures in `regions_unexplored:alpha_grove` biome
+- Disabled `mvs:wooden_wheat_farm` structure in certain biomes
+- Disabled `dungeons_plus:end_ruins` structure in certain biomes
+- Disabled `goetyawaken:temple_of_apollyon` structure
+- Adjusted a Quest in Chapter V: A New God Questline
+- Necronomicon can be obtained by killing The Faceless from Eldritch End
+- Removed `forbidden_arcanus:orb_of_temporary_flight` from loots chests
+- Removed Cinematic Zoom (Replaced)
+- Removed ItemPhysic Lite
+
+New Mods:
+- Just Zoom
+- Starter Structure
+
+New Quests:
+- The Wastes of Torment
+- The Eldritch Abyss
+
+Always make a backup of your world before update.

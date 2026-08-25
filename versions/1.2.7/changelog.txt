@@ -2,7 +2,10 @@
 This new update introduces a brand new structure made for the Storyline!
 Continuing improving performance in certain dimensions to get the best experience while playing.
 
+
+
 Fixes and Changes:
+
 - Updated Mods
 - Improved Hysteria Shaders
 - Improved Performance in Twilight Forest dimension
@@ -28,12 +31,17 @@ Fixes and Changes:
 - Removed Cinematic Zoom (Replaced)
 - Removed ItemPhysic Lite
 
+
 New Mods:
+
 - Just Zoom
 - Starter Structure
 
+
 New Quests:
+
 - The Wastes of Torment
 - The Eldritch Abyss
+
 
 Always make a backup of your world before update.

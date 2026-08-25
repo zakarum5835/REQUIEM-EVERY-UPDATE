@@ -1,0 +1,19 @@
+# Improving Overworld Gen - v1.2.8
+This update aims to improve the Overworld generation, disabling unneeded hostile mobs while going for more stability.
+
+  
+
+Changes and Fixes:
+
+- Updated Mods
+- Improved Performance
+- Disabled Xaero's mod outdated notifications
+- Disabled `born_in_chaos_v1:corpse_fly` natural spawn (Born in Chaos)
+- Disabled `born_in_chaos_v1:decaying_zombie` natural spawn (Born in Chaos)
+- Disabled `born_in_chaos_v1:swarmer` natural spawn (Born in Chaos)
+- Removed Better chunk loading, was conflicting with Radium Reforged
+- Removed Visual Workbench
+- Removed Critters 'n Companions
+  
+
+Always make a backup of your world

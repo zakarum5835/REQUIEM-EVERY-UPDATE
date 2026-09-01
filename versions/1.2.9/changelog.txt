@@ -1,0 +1,33 @@
+# Hidden Gem Update! - v1.2.9
+Welcome to Requiem Forget Me, you can also call it The Last Act.
+This Update is made with the intention of improving performance and adding new questlines.
+
+
+
+# Changes and Fixes
+Improved Performance
+Improved World Loading Screen
+Improved Chapter I: Time's Running Out Questline
+Full Title Revealed in Menu screen
+Readded Flint Knife from Farmer's Delight
+Created a new Crafting Recipe for Flint Knife (Farmer's Delight)
+Created a new Message event upon joining servers and singleplayer for the first time
+
+
+
+# Mods
+Essential Mod
+Domestication Innovation
+Shoulder Surfing Reloaded
+Seramicx's Smooth F5
+Removed Leawind's Third Person (Replaced)
+
+
+
+# New Quests
+Farmer's Delight
+Celestisynth
+Abyssal Echoes
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

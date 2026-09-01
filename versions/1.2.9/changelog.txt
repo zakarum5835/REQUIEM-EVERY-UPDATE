@@ -12,7 +12,6 @@ Changes and Fixes:
 - Full Title Revealed in Menu screen
 - Readded Flint Knife from Farmer's Delight
 - Created a new Crafting Recipe for Flint Knife (Farmer's Delight)
-- Created a new Message event upon joining servers and singleplayer for the first time
 
 
 Mods:

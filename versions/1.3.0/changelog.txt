@@ -16,11 +16,14 @@ Changes and Fixes:
 - Removed Return Ring from Loot Chests (Distant Worlds)
 - Removed Return Ring crafting recipes
 - Return Ring can be obtained by killing the Archmage Gundalf (Terramity)
+- Fixed unexpected crashes in Twilight Forest while using shaders
+
 
 Mods:
 
 - Added Welcome Screen (Modpack Utils Series)
 - Added Hearths
+- Added TF-Intel-Fix
 
 
 New Quests:

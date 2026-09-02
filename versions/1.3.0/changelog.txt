@@ -1,0 +1,33 @@
+# Custom Content is Coming! - v1.3.0
+This update adds new Welcome Screen upon joining a world for the first time. 
+Adding new Quests, some mods while going for more stability.
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Improved Nether Gen
+- Improved Chapter V: A New God Questline
+- Improved Chapter VII: THE LAST ACT Questline
+- Increased `terramity:chthonic_cathedral` spawn frequency (Terramity)
+- Created a Welcome Screen upon joining a world for the first time
+- Pufferfish's Mods were missing in the Server Pack in v1.2.9
+- Removed Return Ring from Loot Chests (Distant Worlds)
+- Removed Return Ring crafting recipes
+- Return Ring can be obtained by killing the Archmage Gundalf (Terramity)
+
+Mods:
+
+- Added Welcome Screen (Modpack Utils Series)
+- Added Hearths
+
+
+New Quests:
+
+- The Null
+- The Ashen Waste
+- Forgotten Worlds
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

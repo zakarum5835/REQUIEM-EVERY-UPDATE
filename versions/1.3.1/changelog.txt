@@ -1,0 +1,30 @@
+# Something is Coming... - v1.3.1
+This update adds new balances between passive and hostile mobs while adding new client mods and going for more stability.
+
+
+  
+Changes and Fixes:
+
+- Improved Performance
+- Improved Twilight Forest Gen
+- Improved Third Person mode with Shoulder Surfing Reloaded
+- Fixed logo in the Pause Menu screen
+- Increased `celestisynth:traverser` Health and Damage Multiply (Celestisynth)
+- Increased `celestisynth:star_monolith` Health and Damage Multiply (Celestisynth)
+- Created crafting recipes for Vairis, Helyst and Firon Armor Sets (Distant Worlds)
+- Created crafting recipes for Vairis, Helyst and Firon Tools (Distant Worlds)
+- Reduced `terramity:cave_gnome` spawning rate (Terramity)
+- Removed Paragliders, replaced with Gliders
+- Modified Tips & Tricks Questline
+
+
+Mods:
+
+- Updated Legendary Survival Overhaul
+- Added Better Mount Steering
+- Added Shoulder Surfing Reloaded: Camera Fixes & Additions
+- Added Open Parties and Claims
+- Added Gliders
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

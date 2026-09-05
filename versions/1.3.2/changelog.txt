@@ -1,0 +1,39 @@
+Overall Patch! - v1.3.2
+This updates is made to fix some crashes due mods conflict, fixing some recipes and improving performance with the Server Pack.
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Improved Performance after installing the Server Pack
+- Fixed Player Step Weight, wasn't able to walk up stairs and similar
+- Fixed some Reward Tables regarding the Storyline
+- Fixed Cooking Pot Crafting Recipe (Farmer's Delight)
+- Removed Unneeded Terramity Crafting Recipes (Terramity)
+- Removed Goety Rituals Recipes for Brutality Weapons
+- Removed Forbidden and Arcanus Rituals Recipes for Brutality Weapons
+- Modified Apollyon Goety Ritual recipe (Goety Revelation)
+- Modified Sacrificial Dirk Goety Ritual recipe (Macabre Call of False Prophets)
+- Modified Soul Cost for Apollyon Goety Ritual (Goety Revelation)
+- Modified Soul Cost for Music Disc Abstraction, Zaka Star, Yuki Star (ZakarumTweaks)
+- Modified Soul Cost for Eldritch Eye Goety Ritual (Eldritch End)
+- Modified Soul Cost for Infernal Tome Goety Ritual (Goety The Dark Arts)
+- Modified Soul Cost for The Immortal Goety Ritual (EEEAB's Mobs)
+- Modified Mystic Arsenal Questline
+- Modified Tips & Tricks Questline
+- Modified Terramity: Everything Questline
+- Modified Chapter IV: Forget Me Questline
+- Modified Chapter VII: THE LAST ACT Questline
+- Created a new crafting recipe for Explorer's Compass
+- Changed recipe for Defiled Greatsword (Lethality)
+
+
+Mods:
+
+- Removed Brutality - A Terramity Addon, was conflicting with other Terramity mods, sorry.
+- Added Accessible Step
+- Added Explorer's Compass
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

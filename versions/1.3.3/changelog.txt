@@ -1,0 +1,27 @@
+# Legendary Survival Overhaul Update! - v1.3.3
+This updates is made to balance the Legendary Survival Overhaul mod to fits with the theme of Requiem as much as possible while going for more stability.
+
+
+  
+Changes and Fixes:
+
+- Improved Performance
+- Removed MmmMmmMmmMmm (Target Dummy), was causing performance issues
+- Removed Reality Piercer Enchantment, was causing causing crashes (Goety Revelation)
+- Removed Netherite Upgrade Smithing Template from Loot Chests
+- Netherite Upgrade Smithing Template it can be obtained by killing Piglin Brute, 20% of chance to drop it
+- Fixed too much Hot Temperature in Nether dimension (Legendary Survival Overhaul)
+- Fixed too much Cold Temperature in End dimension (Legendary Survival Overhaul)
+- Temperature and Thirst won't kill the player anymore (Legendary Survival Overhaul)
+- Nether Fortress will no longer spawn in Basalt Deltas biome (YUNG's Better Nether Fortress)
+- Modified Chapter IV: Forget Me Questline
+- Modified Tips & Tricks Questline
+- Created Crafting Recipes for Heat and Cold Resistance Rings (Legendary Survival Overhaul)
+
+
+Mods:
+
+- Added Torchmaster
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

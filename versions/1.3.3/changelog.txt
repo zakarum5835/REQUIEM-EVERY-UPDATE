@@ -22,6 +22,7 @@ Changes and Fixes:
 Mods:
 
 - Added Torchmaster
+- Added Simple Voice Chat
 
 
 ALWAYS MAKE A BACKUP OF YOUR WORLD

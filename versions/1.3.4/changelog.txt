@@ -1,0 +1,24 @@
+# Requiem SMP Update! - v1.3.4
+This update is made to fix some bugged quests found in the previous version while preparing the upcoming custom content.
+
+
+  
+Changes and Fixes:
+
+- Improved Performance
+- Improved Chapter IV: Forget Me Questline
+- Improved Chapter V: A New God Questline
+- Fixed certain quests in Chapter IV: Forget Me Questline
+- Fixed certain quests in Chapter V: A New God Questline
+- Fixed Welcome Screen GUI (Welcome Screen Modpack Utils Series)
+- Removed Refined Storage Questline
+- Removed Apollyon Summon Ritual (Goety Revelation)
+- Disabled `goety_revelation:church` structure (Goety Revelation)
+
+
+Mods:
+
+- Removed Refined Storage, Refined Storage Addons, Refined Storage: Requestify, RSInfinityBooster, Extra Disks, ExtraStorage, Cable Tiers was causing performance issues and launching the SMP for the first time.
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

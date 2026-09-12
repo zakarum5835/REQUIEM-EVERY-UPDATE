@@ -3,7 +3,7 @@ This update is made to fix some bugged quests found in the previous version whil
 
 
 
-IP SERVER: requiem.infinityender.net
+IP Server: requiem.infinityender.net
 
   
 Changes and Fixes:

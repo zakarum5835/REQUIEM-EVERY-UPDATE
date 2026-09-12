@@ -1,0 +1,17 @@
+# Hotfix for Requiem SMP - v1.3.5
+This Hotfix is made to solve the issue with AI Mob not ticking while playing in the SMP.
+IP SERVER: requiem.infinityender.net
+
+  
+
+Fixes
+  
+- Temporarily Disabled ServerCore, was causing issues with AI Mob in Requiem SMP. Sorry for the incovenience.
+
+  
+Mods
+  
+- Temporarily Disabled ServerCore
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

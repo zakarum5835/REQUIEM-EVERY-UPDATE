@@ -2,6 +2,9 @@
 This update is made to fix some bugged quests found in the previous version while preparing the upcoming custom content.
 
 
+
+IP SERVER: requiem.infinityender.net
+
   
 Changes and Fixes:
 

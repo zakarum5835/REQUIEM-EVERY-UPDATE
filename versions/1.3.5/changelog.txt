@@ -2,7 +2,7 @@
 This Hotfix is made to solve the issue with AI Mob not ticking while playing in the SMP.
 
 
-IP SERVER: requiem.infinityender.net
+IP Server: requiem.infinityender.net
 
 
 

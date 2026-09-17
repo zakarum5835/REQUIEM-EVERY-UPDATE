@@ -55,6 +55,7 @@ Mods:
 - Added Vein Mining (Fabric/Forge/Quilt)
 - Added Skin Layers 3D
 - Added D3dykce's robbers house
+- Added Berezka's library
 - Removed RestMode, Goety Delight, Ritchie's Projectile Library, Weather Refined, No Tree Punching, Legendary Survival Overhaul, Legendary Additions, Majrusz's Progressive Difficulty, Majrusz's Enchantments, Majrusz Library, Realm RPG: Creep & Crop, Baby Horde Moon, Create Cobblestone, Better Compatibility Checker, Radium Reforged, EnhancedVisuals, Mystical Customization
 
 

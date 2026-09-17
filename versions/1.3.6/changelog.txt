@@ -1,4 +1,6 @@
 # Apocalypse Era! - v1.3.6
+
+
 This update finally improves almost the entire game experience while fixing lots of bugs, new balances between modded entities, some questlines are reworked and finally the Apocalypse Era arrives in Requiem.
 
 
@@ -7,11 +9,13 @@ YOUR OPTIONS WILL BE RESET!
 
 HIGHLY RECOMMENDED TO START A FRESH NEW WORLD!
   
+
 It's not recommended to keep the existing world or it can may cause issues or unexpected crashes, sorry.
 
 
 
 Changes and Fixes:
+
 
 - Improved Performance
 - Improved Overworld Gen
@@ -39,11 +43,12 @@ Changes and Fixes:
 - Disabled `goety:spider_den` structure in certain biomes (Goety The Dark Arts)
   
 
+
 Mods:
+
 
 - Updated Saint's Dragons, Starcatcher, ZakarumTweaks
 - Renabled ServerCore
-- Removed RestMode, Goety Delight, Ritchie's Projectile Library, Weather Refined, No Tree Punching, Legendary Survival Overhaul, Legendary Additions, Majrusz's Progressive Difficulty, Majrusz's Enchantments, Majrusz Library, Realm RPG: Creep & Crop, Baby Horde Moon, Create Cobblestone, Better Compatibility Checker, Radium Reforged, EnhancedVisuals, Mystical Customization
 - Added Requiem Apocalypse Era Soundtracks
 - Added DynamicFPS
 - Added Pretty Rain
@@ -51,10 +56,12 @@ Mods:
 - Added Vein Mining (Fabric/Forge/Quilt)
 - Added Skin Layers 3D
 - Added D3dykce's robbers house
+- Removed RestMode, Goety Delight, Ritchie's Projectile Library, Weather Refined, No Tree Punching, Legendary Survival Overhaul, Legendary Additions, Majrusz's Progressive Difficulty, Majrusz's Enchantments, Majrusz Library, Realm RPG: Creep & Crop, Baby Horde Moon, Create Cobblestone, Better Compatibility Checker, Radium Reforged, EnhancedVisuals, Mystical Customization
 
 
 Quests:
-  
+
+
 - ?????
 
 

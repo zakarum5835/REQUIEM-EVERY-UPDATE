@@ -1,6 +1,5 @@
 # Apocalypse Era! - v1.3.6
 
-
 This update finally improves almost the entire game experience while fixing lots of bugs, new balances between modded entities, some questlines are reworked and finally the Apocalypse Era arrives in Requiem.
 
 

@@ -1,0 +1,61 @@
+# Apocalypse Era! - v1.3.6
+This update finally improves almost the entire game experience while fixing lots of bugs, new balances between modded entities, some questlines are reworked and finally the Apocalypse Era arrives in Requiem.
+
+
+YOUR OPTIONS WILL BE RESET!
+
+
+HIGHLY RECOMMENDED TO START A FRESH NEW WORLD!
+  
+It's not recommended to keep the existing world or it can may cause issues or unexpected crashes, sorry.
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Improved Overworld Gen
+- Improved Nether Gen
+- Improved End Gen
+- Increased Netherite Upgrade Smithing Template drop chance to 40% from Piglin Brutes
+- You can get the Ring of the Seven Curses after completing the Chapter I: Time's Running Out Questline (Enigmatic Legacy)
+- Created a new Dimension called Apocalypse (ZakarumTweaks)
+- Added Intro Dialogue with ???? upon joining a world for the first time (ZakarumTweaks)
+- Added End Game Dialogue with ???? after interacting with the Zaka Star (ZakarumTweaks)
+- Adjusted Structure spawn rates with Regions Unexplored
+- Restored Wooden Tools
+- Restored `farmersdelight:cooking_pot`, `farmersdelight:flint_knife` (Farmer's Delight)
+- Restored Stick drops from leaves
+- Reworked Chapter I: Time's Running Out Questline
+- Reworked Chapter II: It Can't Be Questline
+- Reworked Tips & Tricks Questline
+- Reworked Hostile Neural Networks Questline, not working properly
+- Deleted No Tree Punching, Legendary Survival Overhaul custom recipes and events
+- Decreased Nether Apollyon Heart from 6666 to 3500 (Goety Revelation)
+- Nether Apollyon bossfight is more balanced than the previous version (Goety Revelation)
+- Fixed Crops, Flowers, Saplings drops, it was a Legendary Survival Overhaul feature
+- Fixed unexpected crash with Radium Reforged
+- Fixed crashes between Saint's Dragons and Starcatcher
+- Disabled `goety:spider_den` structure in certain biomes (Goety The Dark Arts)
+  
+
+Mods:
+
+- Updated Saint's Dragons, Starcatcher, ZakarumTweaks
+- Renabled ServerCore
+- Removed RestMode, Goety Delight, Ritchie's Projectile Library, Weather Refined, No Tree Punching, Legendary Survival Overhaul, Legendary Additions, Majrusz's Progressive Difficulty, Majrusz's Enchantments, Majrusz Library, Realm RPG: Creep & Crop, Baby Horde Moon, Create Cobblestone, Better Compatibility Checker, Radium Reforged, EnhancedVisuals, Mystical Customization
+- Added Requiem Apocalypse Era Soundtracks
+- Added DynamicFPS
+- Added Pretty Rain
+- Added Cool Rain Reforged
+- Added Vein Mining (Fabric/Forge/Quilt)
+- Added Skin Layers 3D
+- Added D3dykce's robbers house
+
+
+Quests:
+  
+- ?????
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

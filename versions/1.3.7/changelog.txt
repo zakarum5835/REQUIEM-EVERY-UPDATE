@@ -1,0 +1,35 @@
+# Refined Storage Update! - v1.3.7
+This update is primarly made with the intention of re adding back Refined Storage with its addons, Cable Tiers, Extra Disks. Adding new structures made by our Modpack dev <@1112152751963648152>, fixing crashes found in the previous version while going for v1.4.0
+
+
+
+Changes and Fixes:
+
+- Improved Complementary Unbound Shaders Settings
+- Solved Too Expensive issue on Anvils
+- Fixed Crashes with Enhanced Celestials mod
+- Re added custom soundtracks that were removed in the previous version
+
+
+Mods:
+
+- Updated Requiem Apocalypse Era Soundtracks
+- Added Easy Anvils
+- Added Refined Storage
+- Added Refined Storage Addons
+- Added RSInfinityBooster
+- Added Refined Storage: Requestify
+- Added ExtraStorage
+- Added Extra Disks
+- Added Cable Tiers
+- Added Leo's Medieval Structures
+- Added LeoSanLib
+- Removed Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons, Extreme Horde Moon
+
+
+Quests:
+
+- Re added Refined Storage
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

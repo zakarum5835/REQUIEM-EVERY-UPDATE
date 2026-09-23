@@ -1,5 +1,5 @@
 # Refined Storage Update! - v1.3.7
-This update is primarly made with the intention of re adding back Refined Storage with its addons, Cable Tiers, Extra Disks. Adding new structures made by our Modpack dev <@1112152751963648152>, fixing crashes found in the previous version while going for v1.4.0
+This update is primarly made with the intention of re adding back Refined Storage with its addons, Cable Tiers, Extra Disks. Adding new structures made by our Modpack dev leo_san, fixing crashes found in the previous version while going for v1.4.0
 
 
 

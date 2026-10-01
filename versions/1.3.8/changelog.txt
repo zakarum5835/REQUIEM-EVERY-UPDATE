@@ -1,4 +1,4 @@
-Enigmatic Legacy Update! - v1.3.8
+# Enigmatic Legacy Update! - v1.3.8
 This update is made with the intention of bringing the Enigmatic Delicacy Questline and small fixes while going for v1.4.0
 
 

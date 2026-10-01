@@ -6,7 +6,7 @@ This update is made with the intention of bringing the Enigmatic Delicacy Questl
 Changes and Fixes:
 
 - Improved Overworld gen
-- Added a new message about the Apocalypse Era upon joining any world <@377143371019321355>
+- Added a new message about the Apocalypse Era upon joining any world (KCtops6)
 - Fixed unexpected login timeout while joining a world in singleplayer
 - Fixed Goety Ritual for The Immortal, not working properly (Goety: The Dark Arts)
 - Fixed Burning Scroll item not found in Loot Chests (Goety: The Dark Arts)

@@ -1,0 +1,30 @@
+Enigmatic Legacy Update! - v1.3.8
+This update is made with the intention of bringing the Enigmatic Delicacy Questline and small fixes while going for v1.4.0
+
+
+
+Changes and Fixes:
+
+- Improved Overworld gen
+- Added a new message about the Apocalypse Era upon joining any world <@377143371019321355>
+- Fixed unexpected login timeout while joining a world in singleplayer
+- Fixed Goety Ritual for The Immortal, not working properly (Goety: The Dark Arts)
+- Fixed Burning Scroll item not found in Loot Chests (Goety: The Dark Arts)
+- Fixed missing Desert Pyramids structures around the overworld
+- Fixed a quest in Chapter IV: Forget Me Questline
+- Fixed a quest icon in Chapter V: A New God Questline
+- Increased Attacks for The Immortal (EEEAB's Mobs)
+- Hidden Voice Chat message upon joining any world (Simple Voice Chat)
+
+
+Mods:
+
+- Updated Sophisticated Backpacks, Sophisticated Storage, Sophisticated Core
+
+
+Quests:
+
+- Enigmatic Delicacy
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

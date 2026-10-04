@@ -38,6 +38,7 @@ Mods:
 - Added DisenchantingForge
 - Added Dungeons Delight
 - Added Chat Animation [Smooth Chat]
+- Added RunicLib
 
 
 Quests:

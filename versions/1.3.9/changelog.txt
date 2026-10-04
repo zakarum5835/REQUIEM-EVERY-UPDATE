@@ -1,0 +1,49 @@
+# Halloween Update! - v1.3.9
+We're almost close to v1.4.0 which is gonna be a sort of Major Update and the modpack will receive big changes, it will affects the game experience, difficulty mode, new atmosphere and then, the Apocalypse Era will be between us.
+
+
+
+Changes and Fixes:
+
+- Improved Performance
+- Improved Overworld gen
+- Improved Apollyon Bossfight, not working properly with Shaders (Goety Revelation)
+- Changed Apollyon Health from 3500hp to 700hp (Goety Revelation)
+- Changed Apollyon Hurt Limit from 50 damage to 30 damage (Goety Revelation)
+- Introduced new biomes from Frights and Foliage and Sleepy Hollows
+- Introduced a new boss named Horseman from Sleepy Hollows
+- Introduced a new system which is needed to Disenchant your gear and transfer old enchantments to new ones (DisenchantingForge)
+- Changed Warning Message for the Zaka Star (ZakarumTweaks)
+- Changed Warning Message about the Apocalypse Era
+- Disabled Forgotten entity, it was causing issues with Neruina - Ticking Entity Fixer (Quark)
+- Adjusted Maze Structure for certain biomes (Cult of Azazel)
+- Adjusted every Leo's Medieval Structures spawn weight (Leo's Medieval Structures)
+- Updated Tips & Tricks Questline
+- Renamed Questline Enigmatic Delicacy to Enigmatic Delight
+
+
+Mods:
+
+- Updated Cult of Azazel
+- Added Brooms Unofficial
+- Added Haunted Harvest
+- Added Spider Overhaul
+- Added Ghosts
+- Added Frights and Foliage
+- Added Sleepy Hollows
+- Added Epic Structures: Witch Huts
+- Added Intense Horror
+- Added Messenger Crow
+- Added Macaw's Holidays
+- Added DisenchantingForge
+- Added Dungeons Delight
+- Added Chat Animation [Smooth Chat]
+
+
+Quests:
+
+- Happy Halloween!!
+- Dungeons Delight
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

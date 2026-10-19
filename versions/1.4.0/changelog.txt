@@ -68,7 +68,7 @@ Mods:
 - Added Swinging Lanterns
 - Added Euphoria Patches
 - Added Cosmetic Armor Reworked
-- Removed ♪ Boss Music Mod ♪, Serious Player Animations
+- Removed ♪ Boss Music Mod ♪, Serious Player Animations, Shoulder Surfing Reloaded mods
 
 
 Resource Packs:
@@ -76,7 +76,7 @@ Resource Packs:
 - Added Leos eeeabsmobs retexture
 - Added Slim Fire
 - Added Ashen + Lootr Compat
-- Removed Medieval Style Lootr, Ashen + No Tree Punching Support, Malfu Packs, Shoulder Surfing Reloaded mods
+- Removed Medieval Style Lootr, Ashen + No Tree Punching Support, Malfu Packs
 
 
 ALWAYS MAKE A BACKUP OF YOUR WORLD

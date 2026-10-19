@@ -1,0 +1,82 @@
+# RUN AWAY! - v1.4.0
+This update finally introduces the Apocalypse Era at all costs, improving the game experience while fixing lag spikes, memory leaks while exploring almost every dimensions, except Distant Worlds and The Abyss. Also, the difficult mode has been increased to make this Chapter harder as much as possible to fit with the Apocalypse Era event and finally implemented a new dimension called "Revelations". The Apocalypse Era isn't finished yet.
+
+
+
+Storyline Additions:
+
+- First Bossfight in the Apocalypse Dimension, it is only accessible after interacting with the Zaka Star, if you die, you can't finish the Storyline so you have one chance.
+- Revelation Star, it can only be found in Revelation, in ????? Secret Cabin.
+- Voice Acting, every Questline like Chapter II, III and more have dedicated dialogues.
+- Blessed by Gods, a new Skill Tree intended for the End Game that can be unlocked by finishing Chapter V: A New God.
+- New Overworld Soundtracks, the current soundtracks were replaced with new ones to fit with the Apocalypse Era.
+- New Overworld Sky, the Overworld turns into Red.
+- Increased Health and Attacks for certain Goety, Eldritch End, Born in Chaos and Macabre mobs and bosses.
+- New Magic System, they comes with two new Skill Trees.
+- Customized Shader, Complementary Reimagened has it's own new presets.
+
+
+Quests:
+
+- ?????
+
+
+Changes and Fixes:
+
+- First Stable Version after so many releases! This is a huge goal for this Chapter.
+- Improved Performance, memory leak fixes and higher FPS!
+- Overhauled the Main Menu and Loading Screen
+- Updated ????? and Chapter VII: THE LAST ACT Questlines
+- Fixed Cave Gnome spawn rate not working properly, now are reduced (Terramity)
+- Fixed a quest in Chapter V: A New God Questline
+- Fixed Armor renderer issue while using Hysteria Shaders in third person
+- Enabled mob icons in the Minimap (Xaero's Minimap)
+- Solved lag spikes while exploring dimensions
+- Increased Daemonium ores spawn rate (Terramity)
+- Changed Warning message after joining a world for the second time
+- Temporarily disabled Boss musics for Goety Bosses (Goety The Dark Arts)
+- Disabled Variant Chests from Quark (Quark)
+- Disabled Variant Pigs from Quark (Quark)
+- Restored Better Combat animations
+
+
+Mods:
+
+- Updated ZakarumTweaks, Requiem Apocalypse Era Soundtracks
+- Downgraded Essential Mod from 1.4.1.1 to 1.4.0.3
+- Added Leawind's Third Person
+- Added Rogues & Warriors (RPG Series)
+- Added Archers (RPG Series)
+- Added Paladins & Priests (RPG Series)
+- Added Wizards (RPG Series)
+- Added Arsenal (RPG Series)
+- Added Armory (RPG Series)
+- Added Bard (RPG Series Plus)
+- Added Forcemaster (RPG Series Plus)
+- Added Spell Engine
+- Added Spell Power Attributes
+- Added Animation Overhaul
+- Added Ranged Weapon API
+- Added Armor Model, Structure Pool, Shield API
+- Added AzureLib Armor
+- Added More RPG Library
+- Added YUNG's Better End Island (Forge/NeoForge)
+- Added Accessories mods
+- Added EEEAB's Mobs: Custom Bossbars
+- Added True Ending ~ Ender Dragon Overhaul
+- Added Skeleton AI Fix
+- Added Swinging Lanterns
+- Added Euphoria Patches
+- Added Cosmetic Armor Reworked
+- Removed ♪ Boss Music Mod ♪, Serious Player Animations
+
+
+Resource Packs:
+
+- Added Leos eeeabsmobs retexture
+- Added Slim Fire
+- Added Ashen + Lootr Compat
+- Removed Medieval Style Lootr, Ashen + No Tree Punching Support, Malfu Packs, Shoulder Surfing Reloaded mods
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

@@ -22,6 +22,7 @@ Mods:
 - Added Better Punch
 - Added Item Borders [Neo/Forge]
 - Added JEI Optimizations
+- Added D3dykce's library
 - Removed Berezka's library, D3dykce's robbers house
 
 

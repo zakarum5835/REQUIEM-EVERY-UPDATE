@@ -7,7 +7,6 @@ Changes and Fixes:
 
 - Stable Version
 - Improved Performance
-- You need the Seven Seals to unlock the Apocalypse dimension (Goety Revelation)
 - Apollyon now uses a Totem of Undying before dying (Goety Revelation)
 - Introduced a config option where you can disable the Red Sky in Overworld dimension (ZakarumTweaks)
 - Introduced Custom Lootr Chests made for Requiem (Requiem Custom Lootr Chests)

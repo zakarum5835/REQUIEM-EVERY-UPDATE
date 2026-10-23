@@ -1,0 +1,34 @@
+# Small Fixes! - v1.4.1
+This update is made with the intention of adding and adjusting few stuff regarding Goety Revelation, it also adds a config option where you can disable the Red Sky in Overworld while going for more stability.
+
+
+
+Changes and Fixes:
+
+- Stable Version
+- Improved Performance
+- You need the Seven Seals to unlock the Apocalypse dimension (Goety Revelation)
+- Apollyon now uses a Totem of Undying before dying (Goety Revelation)
+- Introduced a config option where you can disable the Red Sky in Overworld dimension (ZakarumTweaks)
+- Introduced Custom Lootr Chests made for Requiem (Requiem Custom Lootr Chests)
+- Introduced new combat animations with Fists (Better Punch)
+- Fixed Third person perspective not centered very well (Leawind's Third Person)
+
+
+Mods:
+
+- Updated ZakarumTweaks
+- Added Requiem_Robbers
+- Added Better Punch
+- Added Item Borders [Neo/Forge]
+- Added JEI Optimizations
+- Removed Berezka's library, D3dykce's robbers house
+
+
+Resource Packs:
+
+- Added Requiem Lootr Chests
+- Removed Ashen + Lootr Compat
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

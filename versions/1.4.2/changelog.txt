@@ -38,6 +38,7 @@ Changes and Fixes:
 - Fixed certain crafting recipes for Runes (Runes)
 - Fixed Smithing Recipes for Netherite Tools, you need Nethersteel tools now.
 - Removed Carry On, it was a memory leak
+- Removed Ender's Delight, it was crashing the modpack while exploring the End dimension.
 
 
 Mods:

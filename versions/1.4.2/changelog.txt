@@ -29,6 +29,7 @@ Changes and Fixes:
 - Improved performance with Create mods, you can now build your own factory.
 - Improved some structures placements for certain mods.
 - Introduced new tabs that above the Inventory
+- Introduced new animals around the Overworld
 - Renamed Chapter VII: THE LAST ACT Questline to Chapter VII: APOLLYON
 - Updated Chapter VII: APOLLYON Questline
 - Restored any leaves. so you won't see through them anymore
@@ -46,6 +47,7 @@ Mods:
 - Added MQA - Misanthropy's FTB Quest Additions
 - Added Misanthropy's Quest Additions Fix
 - Added Runes
+- Added Animalia Exotica
 - Added Legendary Tabs
 - Added Brute Force Rendering Culling Revived
 - Added Bye?Pregen!

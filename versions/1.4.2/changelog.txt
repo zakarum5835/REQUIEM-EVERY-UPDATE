@@ -10,8 +10,8 @@ REQUIEM MULTIVERSE IS COMING:
 
 Storyline Additions:
 
-- New Voice Acting, added a new custom dialogue when you finish Chapter VII: APOLLYON
-- Unlock the Apocalypse dimension, you need the Seven Seals to unlock The Last Act of Better Fantasy Series
+- New Voice Acting, added new dialogues after defeating Apollyon.
+- Unlock the Apocalypse dimension, you need the Seven Seals to unlock The Last Act.
 - Requiem Multiverse, a new Timeline is about to coming soon.
 
 
@@ -24,10 +24,10 @@ Changes and Fixes:
 
 - Stable Version
 - Highly optimized from now on, enjoy the modpack!
-- Improved JEI menu, it loads more fast than before.
-- Improved FTB Quests with smooth movements, more clear and satisfying.
-- Improved performance with Create mods, you can now build your own factory.
-- Improved some structures placements for certain mods.
+- Improved JEI menu, it loads more fast than before
+- Improved FTB Quests with smooth movements, more clear and satisfying
+- Improved performance with Create mods, you can now build your own factory
+- Improved some structures placements for certain mods
 - Introduced new tabs that above the Inventory
 - Introduced new animals around the Overworld
 - Renamed Chapter VII: THE LAST ACT Questline to Chapter VII: APOLLYON
@@ -36,9 +36,10 @@ Changes and Fixes:
 - Fixed an unexpected crash caused from GuideME
 - Fixed crash with Better Punch, it wasn't working properly
 - Fixed certain crafting recipes for Runes (Runes)
-- Fixed Smithing Recipes for Netherite Tools, you need Nethersteel tools now.
+- Fixed Smithing Recipes for Netherite Tools, you need Nethersteel tools now
+- Fixed some Quests in Cognition Questline
 - Removed Carry On, it was a memory leak
-- Removed Ender's Delight, it was crashing the modpack while exploring the End dimension.
+- Removed Ender's Delight, it was crashing the modpack while exploring the End dimension
 
 
 Mods:

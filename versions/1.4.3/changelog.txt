@@ -1,0 +1,38 @@
+# Wait a Little Bit More! - v1.4.3
+This update is made with the intention of adding new Relics to the modpack, while adding small QoL mods and slowly reaching for v1.4.5.
+
+
+
+REQUIEM MULTIVERSE IS COMING:
+
+- Not an official Storyline and it has nothing to do with the Main Storyline of Requiem: Better Fantasy, but it will be a sort of "sequel" after interacting with the Zaka Star. Then, it will be published a Beta Modpack.
+
+
+Changes and Fixes:
+
+- Stable Version
+- Improved Overworld performance, increasing FPS while looking lots of Chests
+- Introduced a mod that allows you to prevent world corruption after adding or removing any mods
+- Introduced more Relics with Relics (RPG Series) mod
+- Improved Treasure Map while finding the Treasure Chest
+- Enhanced Crash Assistant GUI
+- Enabled mob icons in the Xaero's World Map
+- Fixed unexpected crashes with Ghosts while playing in Server Packs (Ghosts)
+- Fixed unexpected crashes with FastChunkGen while exploring the Twilight Forest, only in Server side
+- Fixed an issue while looking Gargamaw Armor in the inventory after enchanted, it was causing lots of FPS drops (Macabre)
+- Readded dynamic lights for torches and lanterns
+- Reduced Squid and Moop spawn rate, they were spawning a lot without any reason and causing stuttering while exploring the Overworld
+- Removed Double Doors, there is no reason to keep this mod in this modpack
+
+
+Mods:
+
+- Updated Spider Overhaul, FastChunkGen. Double Doors
+- Added Relics (RPG Series)
+- Added Better Treasure Map
+- Added Misanthropy's World Corruption Fixer
+- Added Cheap Lighting
+- Removed Curious Lanterns, Radiant Gear (Fabric/Forge/Quilt), Double Doors
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

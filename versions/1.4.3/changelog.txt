@@ -27,7 +27,7 @@ Changes and Fixes:
 
 Mods:
 
-- Updated Spider Overhaul, FastChunkGen. Double Doors
+- Updated Spider Overhaul, FastChunkGen
 - Added Relics (RPG Series)
 - Added Better Treasure Map
 - Added Misanthropy's World Corruption Fixer

@@ -1,0 +1,60 @@
+# Changes to the Storyline! - v1.4.4
+This update is made with the intention of changing a small part of the Storyline, specifically in Chapter V: A New God, since The Abyss dimension wasn't working properly anymore and I decided to remove it and replacing it with The Graveyard, which is more enjoyable and more smooth. There are also made new balances to the modpack, increasing some spawn rate of certain ores, like Diamonds, Daemonium and most Voidscape ores, fixing some bugs like JEI menu while going for v1.4.5.
+
+
+
+REQUIEM MULTIVERSE IS COMING:
+
+- Not an official Storyline and it has nothing to do with the Main Storyline of Requiem: Better Fantasy, but it will be a sort of "sequel" after interacting with the Zaka Star. Then, it will be published as Beta Modpack.
+
+
+Chapter V: A New God:
+
+- Main progression is Eldritch End, Nyxium Gift, EEEAB's Mobs, BetterEnd and The Graveyard
+- Changed progression between EEEAB's Mobs and The Ink Arena
+- Changed Celestial Netherite Ingot crafting recipe from Celestisynth
+- Created a new Goety Ritual for the Elemental Charge
+- Voidscape Ores are now improved a lot
+- Improved Questline
+
+
+Changes and Fixes:
+
+- Stable Version
+- Improved performance
+- Updated Prologue Questline
+- Introduced a new JEI system where you can see every structure in JEI (Just Enough Structures)
+- Increased Diamonds and Daemonium spawn rate (Terramity)
+- Increased Titanite, Fleshy and Strange Ores spawn rate (Voidscape)
+- Increased Soul Cost for certain Terramity and Lethality weapons (Goety The Dark Arts)
+- Increased Soul Cost for Galactrium Set (Goety The Dark Arts)
+- Increased Attacks for every Call of Yucatán bosses (Call of Yucatán)
+- Increased Health and Attacks for Realmwarden and Corpse Warlock (EEEAB's Mobs)
+- Increased Health and Attacks for Super, Ultra Sniffer, Sorceress Circe, Enchanter Merlin and Archmage Gundalf, best way to make it more challenging (Terramity)
+- Increased Attacks for Minoshroom (Twilight Forest)
+- Removed Ring of the Seven Curses ritual recipe (Enigmatic Legacy)
+- Removed Abyssal Echoes Questline
+- Removed Galactrium Smithing Template from Loot Chests (Ancient Elements)
+- Re added Double Doors, it was such a convenient mod for most players, sorry!
+- Removed Infected Diamond ores and Diamond Termite Shards, unneeded ores/items (Born in Chaos)
+- Removed every RPG Series armors, weapons, items from Minotaurs, they were dropping stuff killing them (<@377143371019321355>)
+- Removed certain drops from Dragon Wyrms (<@377143371019321355>)
+- Reduced Green Fairy spawn rates (Terramity)
+- Fixed mob drops in JEI menu not showing anymore in the previous versions
+- Fixed Ancient Trial Music Disc not dropping properly after defeating Ancient Elemental (Ancient Elements)
+- Allowed double-tap sprinting in third person (Leawind's Third Person)
+- Enhanced Farmer's Delight cooking with Hands-On Delight
+
+
+Mods:
+
+- Temporarily removed JEI/EMI Optimizations
+- Added Zakarum's Ore Control - Universal Ore Control
+- Added The Graveyard (Forge)
+- Added Hands-On Delight
+- Added Just Enough Structures
+- Added Double Doors
+- Removed The Abyss: The First Light
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD

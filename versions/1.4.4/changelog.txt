@@ -37,8 +37,8 @@ Changes and Fixes:
 - Removed Galactrium Smithing Template from Loot Chests (Ancient Elements)
 - Re added Double Doors, it was such a convenient mod for most players, sorry!
 - Removed Infected Diamond ores and Diamond Termite Shards, unneeded ores/items (Born in Chaos)
-- Removed every RPG Series armors, weapons, items from Minotaurs, they were dropping stuff killing them (<@377143371019321355>)
-- Removed certain drops from Dragon Wyrms (<@377143371019321355>)
+- Removed every RPG Series armors, weapons, items from Minotaurs, they were dropping stuff killing them (KCtops6)
+- Removed certain drops from Dragon Wyrms (KCtops6)
 - Reduced Green Fairy spawn rates (Terramity)
 - Fixed mob drops in JEI menu not showing anymore in the previous versions
 - Fixed Ancient Trial Music Disc not dropping properly after defeating Ancient Elemental (Ancient Elements)

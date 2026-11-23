@@ -1,0 +1,17 @@
+# Small Fixes! - v1.4.4hf
+This update fixes some stuff like Graveyard issue, the Staff of Nortoq'gul wasn't dropping properly and it was blocking the progression for the Chapter V: A New God. Sorry for this inconvenience!
+
+
+
+REQUIEM MULTIVERSE IS COMING:
+
+- Not an official Storyline and it has nothing to do with the Main Storyline of Requiem: Better Fantasy, but it will be a sort of "sequel" after interacting with the Zaka Star. Then, it will be published as Beta Modpack.
+
+
+Fixes:
+
+- Stable Version
+- Fixed Corrupted Champion Staff of Nortoq'gul not dropping properly (The Graveyard)
+
+
+ALWAYS MAKE A BACKUP OF YOUR WORLD
